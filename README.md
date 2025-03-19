@@ -25,7 +25,7 @@ Le but du jeu est de détruire autant d'ennemis que possible tout en évitant qu
 ## Instructions
 
 1. Clonez ce repository ou téléchargez les fichiers sources.
-2. Compilez le code Ada alire.
+2. Compilez le code Ada avec alire.
 3. Exécutez le programme pour commencer à jouer.
 
 ```bash
