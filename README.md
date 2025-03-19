@@ -32,3 +32,7 @@ Le but du jeu est de détruire autant d'ennemis que possible tout en évitant qu
 cd retro_shooter
 alr build
 alr run
+```
+## Image de fin du jeu
+![Fin du jeu](images/game_with_score.png)
+
