@@ -25,9 +25,10 @@ Le but du jeu est de détruire autant d'ennemis que possible tout en évitant qu
 ## Instructions
 
 1. Clonez ce repository ou téléchargez les fichiers sources.
-2. Compilez le code Ada avec un compilateur compatible (par exemple GNAT).
+2. Compilez le code Ada alire.
 3. Exécutez le programme pour commencer à jouer.
 
 ```bash
-gnatmake retro_shooter.adb
-./retro_shooter
+cd retro_shooter
+alr build
+alr run
